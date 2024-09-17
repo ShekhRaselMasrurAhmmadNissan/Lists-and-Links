@@ -1,0 +1,30 @@
+ul {
+	list-style-type: circle;
+	list-style-position: inside;
+}
+
+ol {
+	list-style-type: upper-roman;
+	list-style-position: inside;
+}
+
+a {
+	font-size: 25px;
+	color: aquamarine;
+	text-decoration: none;
+}
+
+button {
+	background-color: blueviolet;
+	color: white;
+	font-size: larger;
+	font-weight: bold;
+	padding: 10px 12px;
+	border: 2px solid blue;
+	border-radius: 10px;
+}
+
+button:hover {
+	background-color: blue;
+	border-color: blueviolet;
+}
